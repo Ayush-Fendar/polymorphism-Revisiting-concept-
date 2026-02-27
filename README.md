@@ -13,3 +13,6 @@ This project demonstrates the concept of Runtime Polymorphism in Java.
 ```java
 person p = new father();
 p.role();
+
+OUTPUT 
+I'm a father
